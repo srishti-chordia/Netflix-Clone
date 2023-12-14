@@ -1,2 +1,8 @@
 # Netflix-Clone
-This is a website that looks like Netflix. 
+A Netflix clone website that replicates the user interface of Netflix for educational and demonstration purposes.
+
+# Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
